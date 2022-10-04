@@ -1,4 +1,4 @@
-# blocktober
+# Blocktober
 Public hackathon I want to participate in
 
 ## To Do List
